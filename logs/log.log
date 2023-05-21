@@ -1,0 +1,3 @@
+05-05-2023 16:47:28 [main] INFO  com.scalefocus.TrippyApp.logStarting - Starting TrippyApp using Java 20 on DESKTOP-Q97P92I with PID 12088 (C:\Users\Admin\Desktop\GitProject\anton-almishev\anton-almishev-main\ExamTrippy\target\classes started by Admin in C:\Users\Admin\Desktop\GitProject\anton-almishev\anton-almishev-main\ExamTrippy)
+05-05-2023 16:47:28 [main] INFO  com.scalefocus.TrippyApp.logStartupProfileInfo - The following 1 profile is active: "postgre"
+05-05-2023 16:47:30 [main] INFO  com.scalefocus.TrippyApp.logStarted - Started TrippyApp in 2.768 seconds (JVM running for 3.206)

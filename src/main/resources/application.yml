@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: postgre
+server:
+  port: 8081
+
+logging:
+  level:
+    root: WARN
+    com:
+      scalefocus:
+        .: INFO
+        item: DEBUG
+  file:
+    name: logs/log.log
+  pattern:
+    file: "%d{dd-MM-yyyy HH:mm:ss} [%thread] %-5level %logger{36}.%M - %msg%n"
